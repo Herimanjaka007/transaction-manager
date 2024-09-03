@@ -11,7 +11,7 @@ import com.finance.utils.CSVReader;
 public class TransactionService {
     private String fileName = "transactions.csv";
     private List<Transaction> transactions = CSVReader.getDataFromCSV(fileName).stream()
-            .map(Transaction::mapToTransaction)
+            .map(transaction -> Transaction.mapToTransaction(transaction))
             .collect(Collectors.toList());
 
     public TransactionService() {
