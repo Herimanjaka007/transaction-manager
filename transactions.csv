@@ -1,0 +1,56 @@
+1,2024-01-01,150.75,Débit,Alimentation,Supermarché
+2,2024-01-02,1200.00,Crédit,Salaire,Virement mensuel
+3,2024-01-03,75.50,Débit,Transport,Ticket de bus
+4,2024-01-05,30.00,Débit,Loisir,Cinéma
+5,2024-01-07,200.00,Crédit,Vente,Vente d'un ancien vélo
+6,2024-01-08,50.00,Débit,Loisir,Restaurant
+7,2024-01-10,300.00,Débit,Shopping,Achat de vêtements
+8,2024-01-11,450.00,Débit,Alimentation,Courses en ligne
+9,2024-01-12,90.00,Débit,Santé,Médicaments
+10,2024-01-13,60.00,Débit,Loisir,Salle de sport
+11,2024-01-14,150.00,Débit,Transport,Carburant
+12,2024-01-15,500.00,Crédit,Remboursement,Remboursement d'un prêt
+13,2024-01-16,50.00,Débit,Alimentation,Marché local
+14,2024-01-17,800.00,Débit,Loisir,Achat d'une console de jeux
+15,2024-01-18,200.00,Crédit,Cadeau,Cadeau de Noël
+16,2024-01-19,35.00,Débit,Transport,Taxi
+17,2024-01-20,120.00,Débit,Loisir,Concert
+18,2024-01-21,100.00,Débit,Santé,Consultation médicale
+19,2024-01-22,600.00,Crédit,Salaire,Virement de salaire secondaire
+20,2024-01-23,75.00,Débit,Loisir,Théâtre
+21,2024-01-24,350.00,Débit,Transport,Réparation de voiture
+22,2024-01-25,90.00,Débit,Alimentation,Courses au supermarché
+23,2024-01-26,70.00,Débit,Santé,Visite chez le dentiste
+24,2024-01-27,250.00,Débit,Shopping,Achat de meubles
+25,2024-01-28,150.00,Débit,Loisir,Achat de livres
+26,2024-01-29,50.00,Débit,Transport,Abonnement de transport
+27,2024-01-30,80.00,Débit,Alimentation,Dîner au restaurant
+28,2024-01-31,1200.00,Crédit,Salaire,Virement mensuel
+29,2024-02-01,55.00,Débit,Loisir,Café avec des amis
+30,2024-02-02,200.00,Débit,Santé,Achat de lunettes
+31,2024-02-03,75.00,Débit,Transport,Parking
+32,2024-02-04,150.00,Débit,Alimentation,Achat de produits bio
+33,2024-02-05,300.00,Débit,Shopping,Achat d'électronique
+34,2024-02-06,90.00,Débit,Loisir,Bowling
+35,2024-02-07,50.00,Débit,Transport,Recharge carte de transport
+36,2024-02-08,800.00,Crédit,Vente,Vente de meubles anciens
+37,2024-02-09,600.00,Débit,Loisir,Achat d'un vélo
+38,2024-02-10,120.00,Débit,Alimentation,Courses bio
+39,2024-02-11,45.00,Débit,Santé,Achat de vitamines
+40,2024-02-12,150.00,Débit,Transport,Carburant
+41,2024-02-13,100.00,Débit,Loisir,Sortie en famille
+42,2024-02-14,350.00,Crédit,Cadeau,Bonus de fin d'année
+43,2024-02-15,60.00,Débit,Alimentation,Dîner entre amis
+44,2024-02-16,70.00,Débit,Santé,Consultation vétérinaire
+45,2024-02-17,250.00,Débit,Shopping,Achat d'outils de jardinage
+46,2024-02-18,1200.00,Crédit,Salaire,Virement mensuel
+47,2024-02-19,85.00,Débit,Loisir,Sortie en bateau
+48,2024-02-20,50.00,Débit,Transport,Billet de train
+49,2024-02-21,120.00,Débit,Alimentation,Courses hebdomadaires
+50,2024-02-22,75.00,Débit,Loisir,Concert de musique
+51,2024-02-23,600.00,Crédit,Investissement,Vente d'actions
+52,2024-02-24,150.00,Débit,Transport,Entretien de voiture
+53,2024-02-25,50.00,Débit,Alimentation,Panier bio
+54,2024-02-26,75.00,Débit,Loisir,Sortie cinéma
+55,2024-02-27,200.00,Crédit,Cadeau,Cadeau d'anniversaire
+56,2024-02-28,300.00,Débit,Shopping,Achat d'un ordinateur portable
